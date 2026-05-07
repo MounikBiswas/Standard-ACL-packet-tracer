@@ -92,5 +92,3 @@ To ensure the network architecture and ACL are functioning correctly, the follow
 ## 📚 References & Resources
 * [Standard ACL Configuration Video Guide](https://youtu.be/eNKfpjY7oaE?si=mZE8YDIpWdOC-JkB)
 
----
-**Author:** Mounik Biswas | AI Developer
